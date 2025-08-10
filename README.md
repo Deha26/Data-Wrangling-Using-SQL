@@ -9,7 +9,7 @@ Tools Used
 - Draw.io : Data architecture and flow diagrams
 
 
-#Project Structure
+# Project Structure
 
 Scripts
 - First Schema : Raw data ingestion into staging tables
